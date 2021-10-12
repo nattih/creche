@@ -1,0 +1,66 @@
+/* mes css */
+.btn-violet{
+  background-color:  #680340;
+  border-radius: 15px;
+  padding: 10px  ;
+}
+ 
+/* box central */
+#formContent {
+  width: 100%;
+  max-width: 450px;
+  position: relative;
+  padding: 0px;
+  text-align: center;
+}
+
+/* FORM TYPOGRAPHY*/
+
+ .second {
+
+  padding: 15px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 13px;
+  border-radius: 20px;
+}
+
+/* .second {
+  background-color: #c0167c;
+} */
+
+
+.debut{
+  padding-top: 20px;
+}
+
+ 
+.second {
+  border-radius: 15px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  width: 90%;
+ 
+}
+ 
+.ours{
+  background-color: #680340;
+  padding: 20px;
+  width: 20%;
+  border-radius: 50px;
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+}
+.ours:hover{
+  background-color: #c0167c;
+  color: white;
+}
+
+ 
